@@ -679,8 +679,8 @@
   },
   {
     "device_id": "f02f8091a2b3c4d5",
-    "key": "DISABLED047",
-    "expirydate": "01-01-2025",
+    "key": "15DAYSNEWKEY-VIP",
+    "expirydate": "28-06-2026",
     "Allowoffline": false
   },
   {
@@ -696,7 +696,7 @@
     "Allowoffline": false
   },
   {
-    "device_id": "f032b3c4d5e6f708",
+    "device_id": "802fa5a76a064b6b",
     "key": "DISABLED050",
     "expirydate": "01-01-2025",
     "Allowoffline": false
