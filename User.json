@@ -366,12 +366,6 @@
     "Allowoffline": false
   },
   {
-    "device_id": "1407aa4f7ff9c054",
-    "key": "15DAYSKEY-VVIP",
-    "expirydate": "23-06-2026",
-    "Allowoffline": false
-  },
-  {
     "device_id": "a3d1a61ae26d8535",
     "key": "SHAI15DAYS1255",
     "expirydate": "24-06-2026",
@@ -687,12 +681,6 @@
     "device_id": "0fbe3c8decdff2d1",
     "key": "15DAYSKEY12598KEY",
     "expirydate": "28-06-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "8f6d068e2b3947d9",
-    "key": "15DAYS2",
-    "expirydate": "24-06-2026",
     "Allowoffline": false
   },
   {
