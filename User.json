@@ -582,15 +582,15 @@
     "Allowoffline": false
   },
   {
-    "device_id": "f02091a2b3c4d5e6",
-    "key": "DISABLED032",
-    "expirydate": "01-01-2025",
+    "device_id": "3803ff128d72f643",
+    "key": "NORECORDKEY01",
+    "expirydate": "01-07-2026",
     "Allowoffline": false
   },
   {
-    "device_id": "f021a2b3c4d5e6f7",
-    "key": "DISABLED033",
-    "expirydate": "01-01-2025",
+    "device_id": "36b61353502d6055",
+    "key": "NORECORDKEY02",
+    "expirydate": "01-07-2026",
     "Allowoffline": false
   },
   {
