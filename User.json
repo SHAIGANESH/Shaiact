@@ -106,5 +106,6 @@
   {"device_id": "802fa5a76a064b6b", "key": "15DAYSNEWKEYVIP", "expirydate": "29-06-2026", "Allowoffline": true},
   {"device_id": "f02f8091a2b3c4d5", "key": "15DAYSNEWKEYVIP", "expirydate": "28-06-2026", "Allowoffline": false},
   {"device_id": "0fbe3c8decdff2d1", "key": "15DAYSKEY12598KEY", "expirydate": "28-06-2026", "Allowoffline": false},
-  {"device_id": "273f036ef8b52edc", "key": "15DAYMEY05", "expirydate": "20-06-2026", "Allowoffline": false}
+  {"device_id": "273f036ef8b52edc", "key": "15DAYMEY05", "expirydate": "20-06-2026", "Allowoffline": false},
+  {"device_id": "2490615f9312a712", "key": "15DAY12", "expirydate": "03-07-2026", "Allowoffline": false}
 ]
