@@ -69,7 +69,6 @@
   {"device_id": "ab5562bfa14e3a3b", "key": "15DAYSKEYSHAINO", "expirydate": "01-07-2026", "Allowoffline": false},
   {"device_id": "4ce06dd0ad4112a2", "key": "01DAYS25552", "expirydate": "11-06-2026", "Allowoffline": false},
   {"device_id": "8b8527ea93bb6aef", "key": "15DAYS12544656", "expirydate": "25-06-2026", "Allowoffline": false},
-  {"device_id": "fddbe940220ac328", "key": "15DAYSSHAIKEY", "expirydate": "01-07-2026", "Allowoffline": false},
   {"device_id": "cd88bb9c5255c42b", "key": "30DAYSKEY125552", "expirydate": "30-07-2026", "Allowoffline": true},
   {"device_id": "1104c22c9fdc94b1", "key": "NORECORD15DAYS01", "expirydate": "03-07-2026", "Allowoffline": false},
   {"device_id": "622aa489ce06dfde", "key": "SHAIKEY1255", "expirydate": "30-07-2026", "Allowoffline": false},
