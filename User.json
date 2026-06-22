@@ -33,7 +33,6 @@
   {"device_id": "3e6f80def24da98b", "key": "MONTHLYKEY01", "expirydate": "08-07-2026", "Allowoffline": true},
   {"device_id": "1407aa4f7ff9c054", "key": "15DAYS02", "expirydate": "24-06-2026", "Allowoffline": false},
   {"device_id": "b26cbc031ca93dda", "key": "15DAYKEY05", "expirydate": "20-06-2026", "Allowoffline": false},
-  {"device_id": "46846ff3476bea64", "key": "15DAYSNORECORDKEY", "expirydate": "03-06-2026", "Allowoffline": true},
   {"device_id": "7ee369dab2d5eba0", "key": "KEY15DAYS121", "expirydate": "24-06-2026", "Allowoffline": false},
   {"device_id": "4b0503e2c188813f", "key": "15DAYSNEW019SHAI", "expirydate": "24-06-2026", "Allowoffline": false},
   {"device_id": "3e76b987914d63b7", "key": "KEYNEW15DAYS01", "expirydate": "24-06-2026", "Allowoffline": false},
@@ -44,7 +43,7 @@
   {"device_id": "4d0574257da2feb5", "key": "NEW15DAYSKEY123A99", "expirydate": "24-06-2026", "Allowoffline": false},
   {"device_id": "76c8e7d95d9fda0d", "key": "24062026NEY15", "expirydate": "24-06-2026", "Allowoffline": false},
   {"device_id": "46846ff3476bea5", "key": "18062026NEW15", "expirydate": "18-06-2026", "Allowoffline": false},
-  {"device_id": "76bccd281458bb27", "key": "NEW15DAYSKEY123B", "expirydate": "11-06-2026", "Allowoffline": false},
+  {"device_id": "76bccd281458bb27", "key": "NEW15DAYSKEY123B", "expirydate": "11-07-2026", "Allowoffline": false},
   {"device_id": "5bedbf04998c4410", "key": "NEW1515DAYSKEY12", "expirydate": "24-06-2026", "Allowoffline": false},
   {"device_id": "098355c9571f4334", "key": "NEW15DAYSKEY", "expirydate": "19-06-2026", "Allowoffline": false},
   {"device_id": "e4c7164b1bed7d59", "key": "FALSEKEY29", "expirydate": "23-06-2026", "Allowoffline": false},
@@ -56,7 +55,6 @@
   {"device_id": "ff078f5db9a4912a", "key": "19062026KEY", "expirydate": "19-06-2026", "Allowoffline": false},
   {"device_id": "85b3693e9561e9f1", "key": "000DAYSKEY", "expirydate": "19-06-2026", "Allowoffline": false},
   {"device_id": "08711a269e68fa6e", "key": "15DAYSKEY123", "expirydate": "20-06-2026", "Allowoffline": false},
-  {"device_id": "5134c05da399d141", "key": "NORECORD15DAYS", "expirydate": "03-06-2026", "Allowoffline": true},
   {"device_id": "830db13c3e65e7b9", "key": "SHAI15DAYSKEY", "expirydate": "24-06-2026", "Allowoffline": false},
   {"device_id": "c269bc4c6c4dbf66", "key": "070630SHAIKEY", "expirydate": "27-06-2026", "Allowoffline": false},
   {"device_id": "8c51d15ecd603b1f", "key": "SHAI15DAYSKEY8520", "expirydate": "24-06-2026", "Allowoffline": false},
@@ -104,7 +102,6 @@
   {"device_id": "2acf93455973b28d", "key": "NORECORDMONTHLYKEY", "expirydate": "11-07-2026", "Allowoffline": false},
   {"device_id": "802fa5a76a064b6b", "key": "15DAYSNEWKEYVIP", "expirydate": "29-06-2026", "Allowoffline": true},
   {"device_id": "f02f8091a2b3c4d5", "key": "15DAYSNEWKEYVIP", "expirydate": "28-06-2026", "Allowoffline": false},
-  {"device_id": "0fbe3c8decdff2d1", "key": "15DAYSKEY12598KEY", "expirydate": "28-05-2026", "Allowoffline": false},
   {"device_id": "273f036ef8b52edc", "key": "15DAYMEY05", "expirydate": "20-06-2026", "Allowoffline": false},
   {"device_id": "2490615f9312a712", "key": "15DAY12", "expirydate": "03-07-2026", "Allowoffline": false}
 ]
