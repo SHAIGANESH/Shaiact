@@ -105,5 +105,6 @@
   {"device_id": "85de592d07c87b20", "username": "USER104", "password": "1hour", "expirydate": "24-06-2026", "Allowoffline": false},
   {"device_id": "d4a427bbcf7b1cbb", "username": "USER105", "password": "nR7pM2xK", "expirydate": "10-07-2026", "Allowoffline": false},
   {"device_id": "669122151733b337", "username": "USER106", "password": "rT4mP7xK", "expirydate": "30-06-2026", "Allowoffline": false},
-  {"device_id": "1fa34c21c2972fac", "username": "USER107", "password": "mR7pN2xK", "expirydate": "27-06-2026", "Allowoffline": false}
+  {"device_id": "1fa34c21c2972fac", "username": "USER107", "password": "mR7pN2xK", "expirydate": "27-06-2026", "Allowoffline": false},
+  {"device_id": "8edc75b1303c290f", "username": "USER108", "password": "pR7mK2xT", "expirydate": "30-06-2026", "Allowoffline": false}
 ]
